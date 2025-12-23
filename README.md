@@ -2,7 +2,7 @@
 ## Library Information System – Perkantas Jatim
 
 ## 📌 Project Overview
-This repository contains a **System Analysis portfolio project** focusing on the analysis and design of a **Library Information System** for *Perpustakaan Literatur Perkantas Jawa Timur*.
+This repository contains a **System Analysis portfolio project** focusing on the analysis and design of a **Library Information System** for *Perpustakaan Perkantas Jawa Timur*.
 
 The project demonstrates the role of a **System Analyst** in identifying business problems, analyzing current processes, designing future processes, and aligning IT solutions
 
@@ -53,3 +53,4 @@ A non-profit library managing Christian literature, including book production, i
 
 ## 📄 Notes
 This project is created for **portfolio and academic purposes** and reflects a real-world system analysis case study.
+
